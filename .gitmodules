@@ -1,3 +1,0 @@
-[submodule "roles/robot_framework"]
-	path = roles/robot_framework
-	url = https://git.forgeservicelab.fi/ansible-roles/robot_framework.git

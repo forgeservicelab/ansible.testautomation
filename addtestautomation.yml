@@ -2,4 +2,5 @@
 - hosts: all
   sudo: True
   roles:
+     - role: jmeter
      - role: robot_framework
