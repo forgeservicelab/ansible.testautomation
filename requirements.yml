@@ -1,0 +1,4 @@
+#jmeter
+- src: git+ssh://gitlab@git.forgeservicelab.fi:10022/ansible-roles/jmeter.git
+#robot_framework
+- src: git+ssh://gitlab@git.forgeservicelab.fi:10022/ansible-roles/robot_framework.git 
